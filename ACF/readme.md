@@ -35,7 +35,7 @@ Take the [**advanced-custom-fields-pro**](./advanced-custom-fields-pro) folder a
 
 Yes the PRO version, because thanks to **BeCode**, you are entitled to the ACF PRO license!
 
-The license key : `b3JkZXJfaWQ9OTAwODJ8dHlwZT1kZXZlbG9wZXJ8ZGF0ZT0yMDE2LTA5LTIwIDIxOjI0OjAz`
+The license key : ``
 
 You will also need to install **ACF Columns** to properly place its fields in columns. 
 Go to `Plugins` -> `Add new` and search for the plugin. 
